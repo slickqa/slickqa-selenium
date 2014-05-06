@@ -18,3 +18,4 @@ TEST-*.xml
 /*.egg-info/*
 /_build/*
 /build/*
+vpy
